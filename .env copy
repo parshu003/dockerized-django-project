@@ -1,0 +1,10 @@
+# Mail (dummy values – OK for development)
+MAIL_USERNAME=test@example.com
+MAIL_PASSWORD=testpassword
+MAIL_FROM=test@example.com
+
+# PostgreSQL (local / docker values)
+postgres_host=localhost
+postgres_user=postgres
+postgres_password=postgres
+postgres_db=railsathi
